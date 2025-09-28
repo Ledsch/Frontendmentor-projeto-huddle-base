@@ -1,0 +1,17 @@
+@media (max-width: 490px){
+    .conteiner-main .text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+  .footer {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding: 20px;
+  }
+
+
+}
